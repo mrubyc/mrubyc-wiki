@@ -1,0 +1,2 @@
+# Inside mruby/c
+
