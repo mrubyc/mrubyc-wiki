@@ -1,2 +1,3 @@
-# Inside mruby/c
+# mruby/c wiki
 
+This page is empty.
